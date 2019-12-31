@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:fractal.ecore="http://org.ow2.fractal/f4e/fractal.ecore/1.0.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:notation_1="http://www.ow2.org/fractal/f4e/1.0.0/notation" xmi:id="_0dJTwfe6EeipCd8LypPOdw" type="Fractal" name="controlSystem.fractal_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_1D_RUPe6EeipCd8LypPOdw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_1ESMQPe6EeipCd8LypPOdw" type="4017"/>
+    <children xmi:type="notation:Node" xmi:id="_1Eb9QPe6EeipCd8LypPOdw" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_1Eb9Qfe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1Eb9Qve6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1Eb9Q_e6EeipCd8LypPOdw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_1Eb9RPe6EeipCd8LypPOdw" type="5002">
+      <children xmi:type="notation:Node" xmi:id="_EmCp8Pe7EeipCd8LypPOdw" type="2002">
+        <children xmi:type="notation:Node" xmi:id="_EmCp9fe7EeipCd8LypPOdw" type="4016"/>
+        <children xmi:type="notation:Node" xmi:id="_EmCp9ve7EeipCd8LypPOdw" type="5006">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_EmCp9_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EmCp-Pe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EmCp-fe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EmCp-ve7EeipCd8LypPOdw" type="5007">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_EmCp-_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EmCp_Pe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EmCp_fe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EmCp_ve7EeipCd8LypPOdw" type="5008">
+          <children xmi:type="notation:Node" xmi:id="_r3J0sPfCEeipCd8LypPOdw" type="2003">
+            <children xmi:type="notation:Node" xmi:id="_r3J0s_fCEeipCd8LypPOdw" type="4002"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_r3J0sffCEeipCd8LypPOdw" fontName="Segoe UI"/>
+            <element xmi:type="fractal.ecore:Content" href="controlSystem.fractal#//@definitions.0/@subComponents.0/@content"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r3J0svfCEeipCd8LypPOdw"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EmCp__e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EmCqAPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EmCqAfe7EeipCd8LypPOdw" type="5009">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_EmCqAve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EmCqA_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EmCqBPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EmCqBfe7EeipCd8LypPOdw" type="5010">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_EmCqBve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EmCqB_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EmCqCPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_X5ScQPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_X5ScQ_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_X5ScQfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.0/@interfaces.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X5ScQve7EeipCd8LypPOdw"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_EmCp8fe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:DrawerStyle" xmi:id="_EmCp8ve7EeipCd8LypPOdw"/>
+        <styles xmi:type="notation_1:AbstractComponentStyle" xmi:id="_EmCp8_e7EeipCd8LypPOdw"/>
+        <element xmi:type="fractal.ecore:Component" href="controlSystem.fractal#//@definitions.0/@subComponents.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EmCp9Pe7EeipCd8LypPOdw" x="660" y="88"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_FYQxEPe7EeipCd8LypPOdw" type="2002">
+        <children xmi:type="notation:Node" xmi:id="_FYQxFfe7EeipCd8LypPOdw" type="4016"/>
+        <children xmi:type="notation:Node" xmi:id="_FYQxFve7EeipCd8LypPOdw" type="5006">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_FYQxF_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_FYQxGPe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_FYQxGfe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_FYQxGve7EeipCd8LypPOdw" type="5007">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_FYQxG_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_FYQxHPe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_FYQxHfe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_FYQxHve7EeipCd8LypPOdw" type="5008">
+          <children xmi:type="notation:Node" xmi:id="_ucbN0PfCEeipCd8LypPOdw" type="2003">
+            <children xmi:type="notation:Node" xmi:id="_ucbN0_fCEeipCd8LypPOdw" type="4002"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ucbN0ffCEeipCd8LypPOdw" fontName="Segoe UI"/>
+            <element xmi:type="fractal.ecore:Content" href="controlSystem.fractal#//@definitions.0/@subComponents.1/@content"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ucbN0vfCEeipCd8LypPOdw"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_FYQxH_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_FYQxIPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_FYQxIfe7EeipCd8LypPOdw" type="5009">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_FYQxIve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_FYQxI_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_FYQxJPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_FYQxJfe7EeipCd8LypPOdw" type="5010">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_FYQxJve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_FYQxJ_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_FYQxKPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_bjzmMPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_bjzmM_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_bjzmMfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.1/@interfaces.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bjzmMve7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_eJa9kPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_eJa9k_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_eJa9kfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.1/@interfaces.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eJa9kve7EeipCd8LypPOdw"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_FYQxEfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:DrawerStyle" xmi:id="_FYQxEve7EeipCd8LypPOdw"/>
+        <styles xmi:type="notation_1:AbstractComponentStyle" xmi:id="_FYQxE_e7EeipCd8LypPOdw"/>
+        <element xmi:type="fractal.ecore:Component" href="controlSystem.fractal#//@definitions.0/@subComponents.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FYQxFPe7EeipCd8LypPOdw" x="340" y="33"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_F2gMQPe7EeipCd8LypPOdw" type="2002">
+        <children xmi:type="notation:Node" xmi:id="_F2gMRfe7EeipCd8LypPOdw" type="4016"/>
+        <children xmi:type="notation:Node" xmi:id="_F2gMRve7EeipCd8LypPOdw" type="5006">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_F2gMR_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_F2gMSPe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_F2gMSfe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_F2gMSve7EeipCd8LypPOdw" type="5007">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_F2gMS_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_F2gMTPe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_F2gMTfe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_F2gMTve7EeipCd8LypPOdw" type="5008">
+          <children xmi:type="notation:Node" xmi:id="_wspkAPfCEeipCd8LypPOdw" type="2003">
+            <children xmi:type="notation:Node" xmi:id="_wspkA_fCEeipCd8LypPOdw" type="4002"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_wspkAffCEeipCd8LypPOdw" fontName="Segoe UI"/>
+            <element xmi:type="fractal.ecore:Content" href="controlSystem.fractal#//@definitions.0/@subComponents.2/@content"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wspkAvfCEeipCd8LypPOdw"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_F2gMT_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_F2gMUPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_F2gMUfe7EeipCd8LypPOdw" type="5009">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_F2gMUve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_F2gMU_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_F2gMVPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_F2gMVfe7EeipCd8LypPOdw" type="5010">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_F2gMVve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_F2gMV_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_F2gMWPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_cuJ5cPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_cuJ5c_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_cuJ5cfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.2/@interfaces.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cuJ5cve7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_grKhkPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_grKhk_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_grKhkfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.2/@interfaces.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_grKhkve7EeipCd8LypPOdw"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_F2gMQfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:DrawerStyle" xmi:id="_F2gMQve7EeipCd8LypPOdw"/>
+        <styles xmi:type="notation_1:AbstractComponentStyle" xmi:id="_F2gMQ_e7EeipCd8LypPOdw"/>
+        <element xmi:type="fractal.ecore:Component" href="controlSystem.fractal#//@definitions.0/@subComponents.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F2gMRPe7EeipCd8LypPOdw" x="340" y="168"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_GR-AQPe7EeipCd8LypPOdw" type="2002">
+        <children xmi:type="notation:Node" xmi:id="_GR-ARfe7EeipCd8LypPOdw" type="4016"/>
+        <children xmi:type="notation:Node" xmi:id="_GR-ARve7EeipCd8LypPOdw" type="5006">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_GR-AR_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_GR-ASPe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_GR-ASfe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_GR-ASve7EeipCd8LypPOdw" type="5007">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_GR-AS_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_GR-ATPe7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_GR-ATfe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_GR-ATve7EeipCd8LypPOdw" type="5008">
+          <children xmi:type="notation:Node" xmi:id="_0REF8PfCEeipCd8LypPOdw" type="2003">
+            <children xmi:type="notation:Node" xmi:id="_0REF8_fCEeipCd8LypPOdw" type="4002"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_0REF8ffCEeipCd8LypPOdw" fontName="Segoe UI"/>
+            <element xmi:type="fractal.ecore:Content" href="controlSystem.fractal#//@definitions.0/@subComponents.3/@content"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0REF8vfCEeipCd8LypPOdw"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_GR-AT_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_GR-AUPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_GR-AUfe7EeipCd8LypPOdw" type="5009">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_GR-AUve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_GR-AU_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_GR-AVPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_GR-AVfe7EeipCd8LypPOdw" type="5010">
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_GR-AVve7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_GR-AV_e7EeipCd8LypPOdw"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_GR-AWPe7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_jBv-cPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_jBv-c_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_jBv-cfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.3/@interfaces.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jBv-cve7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_j3sH8Pe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_j3sH8_e7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_j3sH8fe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.3/@interfaces.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j3sH8ve7EeipCd8LypPOdw"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_skPoYPe7EeipCd8LypPOdw" type="2009">
+          <children xmi:type="notation:Node" xmi:id="_skYyUPe7EeipCd8LypPOdw" type="4008"/>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_skPoYfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+          <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@subComponents.3/@interfaces.2"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_skPoYve7EeipCd8LypPOdw"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_GR-AQfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:DrawerStyle" xmi:id="_GR-AQve7EeipCd8LypPOdw"/>
+        <styles xmi:type="notation_1:AbstractComponentStyle" xmi:id="_GR-AQ_e7EeipCd8LypPOdw"/>
+        <element xmi:type="fractal.ecore:Component" href="controlSystem.fractal#//@definitions.0/@subComponents.3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GR-ARPe7EeipCd8LypPOdw" x="90" y="83"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_1Eb9Rfe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1Eb9Rve6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1Eb9R_e6EeipCd8LypPOdw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_1Eb9SPe6EeipCd8LypPOdw" type="5003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1Eb9Sfe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1Eb9Sve6EeipCd8LypPOdw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_1Eb9S_e6EeipCd8LypPOdw" type="5004">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_1Eb9TPe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1Eb9Tfe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1Eb9Tve6EeipCd8LypPOdw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_1Eb9T_e6EeipCd8LypPOdw" type="5005">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_1Eb9UPe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1Eb9Ufe6EeipCd8LypPOdw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1Eb9Uve6EeipCd8LypPOdw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_vBGsYPe7EeipCd8LypPOdw" type="2009">
+      <children xmi:type="notation:Node" xmi:id="_vBGsY_e7EeipCd8LypPOdw" type="4008"/>
+      <styles xmi:type="notation:ShapeStyle" xmi:id="_vBGsYfe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+      <element xmi:type="fractal.ecore:Interface" href="controlSystem.fractal#//@definitions.0/@interfaces.0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vBGsYve7EeipCd8LypPOdw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_1D_RUfe6EeipCd8LypPOdw" fontName="Segoe UI"/>
+    <styles xmi:type="notation:DrawerStyle" xmi:id="_1D_RUve6EeipCd8LypPOdw"/>
+    <styles xmi:type="notation_1:AbstractComponentStyle" xmi:id="_1D_RU_e6EeipCd8LypPOdw"/>
+    <element xmi:type="fractal.ecore:Definition" href="controlSystem.fractal#//@definitions.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1D_RVPe6EeipCd8LypPOdw" x="25" y="5" width="813" height="313"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_0dJTwve6EeipCd8LypPOdw"/>
+  <element xmi:type="fractal.ecore:System" href="controlSystem.fractal#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_nuO7sPe7EeipCd8LypPOdw" type="3001" source="_X5ScQPe7EeipCd8LypPOdw" target="_bjzmMPe7EeipCd8LypPOdw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_nuO7sfe7EeipCd8LypPOdw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_nuO7sve7EeipCd8LypPOdw" fontName="Segoe UI"/>
+    <element xmi:type="fractal.ecore:Binding" href="controlSystem.fractal#//@definitions.0/@bindings.0"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nuO7s_e7EeipCd8LypPOdw" points="[-11, -3, 178, 52]$[-177, -52, 12, 3]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_odoYUPe7EeipCd8LypPOdw" type="3001" source="_X5ScQPe7EeipCd8LypPOdw" target="_cuJ5cPe7EeipCd8LypPOdw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_odoYUfe7EeipCd8LypPOdw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_odyJUPe7EeipCd8LypPOdw" fontName="Segoe UI"/>
+    <element xmi:type="fractal.ecore:Binding" href="controlSystem.fractal#//@definitions.0/@bindings.1"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_odyJUfe7EeipCd8LypPOdw" points="[-11, 5, 177, -75]$[-176, 75, 12, -5]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_pLEtIPe7EeipCd8LypPOdw" type="3001" source="_eJa9kPe7EeipCd8LypPOdw" target="_jBv-cPe7EeipCd8LypPOdw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_pLEtIfe7EeipCd8LypPOdw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_pLEtIve7EeipCd8LypPOdw" fontName="Segoe UI"/>
+    <element xmi:type="fractal.ecore:Binding" href="controlSystem.fractal#//@definitions.0/@bindings.2"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pLEtI_e7EeipCd8LypPOdw" points="[-10, 4, 122, -46]$[-121, 46, 11, -4]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_p7DYkPe7EeipCd8LypPOdw" type="3001" source="_grKhkPe7EeipCd8LypPOdw" target="_j3sH8Pe7EeipCd8LypPOdw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_p7DYkfe7EeipCd8LypPOdw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_p7DYkve7EeipCd8LypPOdw" fontName="Segoe UI"/>
+    <element xmi:type="fractal.ecore:Binding" href="controlSystem.fractal#//@definitions.0/@bindings.3"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_p7DYk_e7EeipCd8LypPOdw" points="[-10, -5, 122, 58]$[-121, -58, 11, 5]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_xcBPoPe7EeipCd8LypPOdw" type="3001" source="_skPoYPe7EeipCd8LypPOdw" target="_vBGsYPe7EeipCd8LypPOdw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_xcBPofe7EeipCd8LypPOdw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_xcBPove7EeipCd8LypPOdw" fontName="Segoe UI"/>
+    <element xmi:type="fractal.ecore:Binding" href="controlSystem.fractal#//@definitions.0/@bindings.4"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xcBPo_e7EeipCd8LypPOdw" points="[-7, -7, 98, 108]$[-99, -107, 6, 8]"/>
+  </edges>
+</notation:Diagram>
